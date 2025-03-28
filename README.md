@@ -32,6 +32,3 @@ Este é o meu primeiro projeto web utilizando Golang. Desenvolvi um ToDo App ond
 ## Contribuição
 Sinta-se à vontade para abrir issues e enviar pull requests!
 
-## Licença
-Este projeto está sob a licença MIT.
-
